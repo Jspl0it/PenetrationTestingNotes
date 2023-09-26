@@ -2,17 +2,17 @@
 
 # Table of Contents
 
-[Resources!](https://github.com/Jspl0it/Notion-MD-test/blob/main/README.md#resources)
+- [Resources!](https://github.com/Jspl0it/Notion-MD-test/blob/main/README.md#resources)
 
-[Penetration Testing Fundamentals](https://github.com/Jspl0it/Notion-MD-test#penetration-testing-fundamentals)
+- [Penetration Testing Fundamentals](https://github.com/Jspl0it/Notion-MD-test#penetration-testing-fundamentals)
 
-   [Penetration Testing Methodologies](https://github.com/Jspl0it/Notion-MD-test#penetration-testing-methodologies)
+-	[Penetration Testing Methodologies](https://github.com/Jspl0it/Notion-MD-test#penetration-testing-methodologies)
 
-[Penetration Testing Frameworks](Penetration%20Testing%20Frameworks%205a38e02132cf4031b69887043c6bfd12.md)
+- [Penetration Testing Frameworks](Penetration%20Testing%20Frameworks%205a38e02132cf4031b69887043c6bfd12.md)
 
-[Walking An Application](Walking%20An%20Application%205d62967c31384fe2a6df8b40f2b707c0.md)
+- [Walking An Application](Walking%20An%20Application%205d62967c31384fe2a6df8b40f2b707c0.md)
 
-[Content Discovery](Content%20Discovery%203ac5c1f37a2042fea87a520540fe9ba6.md)
+- [Content Discovery](Content%20Discovery%203ac5c1f37a2042fea87a520540fe9ba6.md)
 
 
 
