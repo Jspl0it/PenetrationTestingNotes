@@ -45,7 +45,7 @@
 
 # Penetration Testing Frameworks
 
-# **OSSTMM**
+### **OSSTMM**
 
 The **Open Source Security Testing Methodology Manual**
 
@@ -62,11 +62,11 @@ includes a methodology for:
 | Advantages | Disadvantages |
 | --- | --- |
 | Covers various testing strategies in-depth | The Framework is difficult to understand, very detailed, and tends to use unique definitions. |
-| Includes testing strategies for specific targets (i.e. telecommunications and networking) |  |
-| The framework is flexible depending upon the organizations needs |  |
-| The framework is meant to set a standard for systems and applications Meaning that a universal methodology can be used in a penetration testing scenario. |  |
+| Includes testing strategies for specific targets (i.e. telecommunications and networking) | Intentionally left blank. |
+| The framework is flexible depending upon the organizations needs | Intentionally left blank. |
+| The framework is meant to set a standard for systems and applications Meaning that a universal methodology can be used in a penetration testing scenario. | Intentionally left blank. |
 
-# **OWASP**
+### **OWASP**
 
 The “****************************Open Web Application Security Project”**************************** framework is a community-driven and frequently updated framework used solely to test the security of web applications and services.
 
@@ -79,7 +79,7 @@ The foundation regularly writes reports stating the top ten security vulnerabili
 | It covers all stages of an engagement: from testing to reporting and remediation. | The framework doesn't hold any accreditation such as CHECK. |
 | Specializes in web applications and services. | Intentionally left blank. |
 
-# **NIST**
+### **NIST**
 
 The NIST Cybersecurity Framework is a popular framework used to improve an organizations cybersecurity standards and manage the risk of cyber threats. This framework is a bit of an honorable mention because of its popularity and detail.
 
@@ -95,7 +95,7 @@ There is a limited section on a standard guideline for the methodology a penetra
 | NIST provides accreditation for organizations that use this framework. | Intentionally left blank. |
 | The NIST framework is designed to be implemented alongside other frameworks. | Intentionally left blank. |
 
-# **NCSC CAF**
+### **NCSC CAF**
 
 The [Cyber Assessment Framework](https://www.ncsc.gov.uk/collection/caf/caf-principles-and-guidance) (CAF) is an extensive framework of fourteen principles used to assess  the risk of various cyber threats and an organization's defenses against these.
 
