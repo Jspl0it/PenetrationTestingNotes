@@ -6,7 +6,7 @@
 
 [Penetration Testing Fundamentals](https://github.com/Jspl0it/Notion-MD-test#penetration-testing-fundamentals)
 
-[Penetration Testing Methodologies](https://github.com/Jspl0it/Notion-MD-test#penetration-testing-methodologies)
+   [Penetration Testing Methodologies](https://github.com/Jspl0it/Notion-MD-test#penetration-testing-methodologies)
 
 [Penetration Testing Frameworks](Penetration%20Testing%20Frameworks%205a38e02132cf4031b69887043c6bfd12.md)
 
@@ -27,7 +27,7 @@
 
 # Penetration Testing Fundamentals
 
-# **Penetration Testing Methodologies**
+### **Penetration Testing Methodologies**
 
 | Stage | Description |
 | --- | --- |
