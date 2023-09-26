@@ -31,9 +31,7 @@
 
 | Stage | Description |
 | --- | --- |
-| Information Gathering | This stage involves collecting as much publicly accessible information about a target/organization as possible, for example OSINT and research
-
-This does not involve scanning systems |
+| Information Gathering | This stage involves collecting as much publicly accessible information about a target/organization as possible, for example OSINT and research This does not involve scanning systems |
 | Enumeration/Scanning | This stage involves discovering applications and services running on the systems.
 
 For example, finding a web server that may be potentially vulnerable. |
