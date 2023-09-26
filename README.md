@@ -18,7 +18,7 @@ who may be interested in cybersec and penetration testing.
 	- [NIST](#nist)
    	- [NCSC CAF](#ncsc-caf)
 
-- [Walking An Application](#walking-an-applicaiton)
+- [Walking An Application](#walking-an-application)
 
 	- [Browser Tools](#browser-tools)
 
