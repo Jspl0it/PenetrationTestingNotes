@@ -2,13 +2,13 @@
 
 # Table of Contents
 
-- [Resources!](https://github.com/Jspl0it/Notion-MD-test/blob/main/README.md#resources)
+- [Resources!](#resources)
 
 - [Penetration Testing Fundamentals](#Penetration-Testing-Fundamentals)
 
-	- [Penetration Testing Methodologies](https://github.com/Jspl0it/Notion-MD-test#penetration-testing-methodologies)
+	- [Penetration Testing Methodologies](#penetration-testing-methodologies)
 
-- [Penetration Testing Frameworks](Penetration%20Testing%20Frameworks%205a38e02132cf4031b69887043c6bfd12.md)
+- [Penetration Testing Frameworks](#penetration-testing-frameworks)
 
 - [Walking An Application](Walking%20An%20Application%205d62967c31384fe2a6df8b40f2b707c0.md)
 
