@@ -2,7 +2,7 @@
 
 # Table of Contents
 
-[Resources!](# Resources!)
+[Resources!](https://github.com/Jspl0it/Notion-MD-test/blob/main/README.md#resources)
 
 [Penetration Testing Fundamentals](Penetration%20Testing%20Fundamentals%204b7051c371cf4c478b1af4775d016bed.md)
 
