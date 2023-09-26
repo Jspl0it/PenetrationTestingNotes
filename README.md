@@ -22,7 +22,7 @@ who may be interested in cybersec and penetration testing.
 
 	- [Browser Tools](#browser-tools)
 
-- [Content Discovery](Content%20Discovery%203ac5c1f37a2042fea87a520540fe9ba6.md)
+- [Content Discovery](#content-discovery)
 
 
 
