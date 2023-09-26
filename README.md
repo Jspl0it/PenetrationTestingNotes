@@ -2,7 +2,7 @@
 
 # Table of Contents
 
-[Resources!](Resources!%20ef4f7921791c48239cb964689e50cba0.md)
+[Resources!](# Resources!)
 
 [Penetration Testing Fundamentals](Penetration%20Testing%20Fundamentals%204b7051c371cf4c478b1af4775d016bed.md)
 
