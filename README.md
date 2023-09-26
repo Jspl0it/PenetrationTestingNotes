@@ -4,7 +4,7 @@
 
 - [Resources!](https://github.com/Jspl0it/Notion-MD-test/blob/main/README.md#resources)
 
-- [Penetration Testing Fundamentals](https://github.com/Jspl0it/Notion-MD-test#penetration-testing-fundamentals)
+- [Penetration Testing Fundamentals](#Penetration-Testing-Fundamentals)
 
 	- [Penetration Testing Methodologies](https://github.com/Jspl0it/Notion-MD-test#penetration-testing-methodologies)
 
