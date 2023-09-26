@@ -1,5 +1,5 @@
 # Penetration Testing Notes & Resources
-I am creating this in order to consolidate my notes, as well as to share the abundance of information I've gathered with others
+I am creating this in order to consolidate my notes, as well as to share the abundance of information I've gathered and will continue to gather, with others
 who may be interested in cybersec and penetration testing.
 
 
