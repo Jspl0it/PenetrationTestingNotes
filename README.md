@@ -1,4 +1,7 @@
 # Penetration Testing Notes & Resources
+I am creating this in order to take notes, as well as to share them with others
+who may be interested in cybersec and penetration testing.
+
 
 # Table of Contents
 
