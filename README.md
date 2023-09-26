@@ -32,12 +32,8 @@
 | Stage | Description |
 | --- | --- |
 | Information Gathering | This stage involves collecting as much publicly accessible information about a target/organization as possible, for example OSINT and research This does not involve scanning systems |
-| Enumeration/Scanning | This stage involves discovering applications and services running on the systems.
-
-For example, finding a web server that may be potentially vulnerable. |
-| Exploitation | This stage involves leveraging vulnerabilities discovered on a system or application.
-
-This stage can involve the use of public exploits or exploiting application logic. |
+| Enumeration/Scanning | This stage involves discovering applications and services running on the systems. For example, finding a web server that may be potentially vulnerable. |
+| Exploitation | This stage involves leveraging vulnerabilities discovered on a system or application. This stage can involve the use of public exploits or exploiting application logic. |
 | Privilege Escalation | Once you have exploited a system and have access, this stage is where you attempt to expand your access to a system.
 You can escalate horizontally and vertically,
 			where horizontally is accessing another account of the same
