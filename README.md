@@ -13,7 +13,7 @@ who may be interested in cybersec and penetration testing.
 
 - [Penetration Testing Frameworks](#penetration-testing-frameworks)
 
-- [Walking An Application](Walking%20An%20Application%205d62967c31384fe2a6df8b40f2b707c0.md)
+- [Walking An Application](#walking-an-applicaiton)
 
 - [Content Discovery](Content%20Discovery%203ac5c1f37a2042fea87a520540fe9ba6.md)
 
@@ -129,6 +129,17 @@ Here is a short breakdown of the in-built browser tools you will use:
 - **Inspector** - Learn how to inspect page elements and make changes to view usually blocked content.
 - **Debugger** - Inspect and control the flow of a page's JavaScript
 - **Network** - See all the network requests a page makes.
+
+
+
+
+# Content Discovery
+
+Learn the various ways of discovering hidden or private content on a web-server that could lead to new vulnerabilities.
+
+## In the process of being completed
+
+
 
 
 
