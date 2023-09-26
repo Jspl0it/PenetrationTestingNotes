@@ -36,7 +36,6 @@
 | Exploitation | This stage involves leveraging vulnerabilities discovered on a system or application. This stage can involve the use of public exploits or exploiting application logic. |
 | Privilege Escalation | Once you have exploited a system and have access, this stage is where you attempt to expand your access to a system. You can escalate **horizontally** and **vertically**, where **horizontally** is accessing another account of the same permission group. And escalating **vertically** is accessing another user that is of another permission group (an admin) |
 | Post-exploitation | This stage involves a few sub-stages:
-
 1. What other hosts can be targeted
 			(pivoting)
 
