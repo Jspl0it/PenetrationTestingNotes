@@ -23,7 +23,13 @@ who may be interested in cybersec and penetration testing.
 	- [Browser Tools](#browser-tools)
 
 - [Content Discovery](#content-discovery)
-
+	- [Manual Discovery](#manual-discovery)
+   		- [Robots.txt](#robotstxt)
+   		- [Favicon](#Favicon)
+		- [Sitemap.xml](#sitemapxml)
+  		- [HTTP Headers](#http-headers)
+	- [OSINT](#osint)
+ 
 
 ---
 
