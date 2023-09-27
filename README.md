@@ -29,11 +29,12 @@ who may be interested in cybersec and penetration testing.
 		- [Sitemap.xml](#sitemapxml)
   		- [HTTP Headers](#http-headers)
 	- [OSINT](#osint)
- 		-[Google Dorking](#google-dorking)
-   		-[Wappalyzer](#wappalyzer)
-   		-[Wayback Machine](#wayback-machine)
-   		-[S3 Buckets](#s3-buckets)
-   	-[Automated Discovery](#automation-tools)
+ 		- [Google Dorking](#google-dorking)
+   		- [Wappalyzer](#wappalyzer)
+   		- [Wayback Machine](#wayback-machine)
+   		- [S3 Buckets](#s3-buckets)
+   	- [Automated Discovery](#automated-discovery)
+   		- [Automation Tools](automation-tools)
  
 
 ---
