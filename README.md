@@ -25,7 +25,7 @@ who may be interested in cybersec and penetration testing.
 - [Content Discovery](#content-discovery)
 
 
-
+---
 
 
 # Resources!
@@ -50,7 +50,7 @@ who may be interested in cybersec and penetration testing.
 
 
 
-
+---
 
 
 # Penetration Testing Frameworks
@@ -76,6 +76,8 @@ includes a methodology for:
 | The framework is flexible depending upon the organizations needs | Intentionally left blank. |
 | The framework is meant to set a standard for systems and applications Meaning that a universal methodology can be used in a penetration testing scenario. | Intentionally left blank. |
 
+---
+
 ### **OWASP**
 
 The “****************************Open Web Application Security Project”**************************** framework is a community-driven and frequently updated framework used solely to test the security of web applications and services.
@@ -88,6 +90,8 @@ The foundation regularly writes reports stating the top ten security vulnerabili
 | Actively maintained and is frequently updated. | OWASP does not make suggestions to any specific software development life cycles. |
 | It covers all stages of an engagement: from testing to reporting and remediation. | The framework doesn't hold any accreditation such as CHECK. |
 | Specializes in web applications and services. | Intentionally left blank. |
+
+---
 
 ### **NIST**
 
@@ -105,6 +109,8 @@ There is a limited section on a standard guideline for the methodology a penetra
 | NIST provides accreditation for organizations that use this framework. | Intentionally left blank. |
 | The NIST framework is designed to be implemented alongside other frameworks. | Intentionally left blank. |
 
+---
+
 ### **NCSC CAF**
 
 The [Cyber Assessment Framework](https://www.ncsc.gov.uk/collection/caf/caf-principles-and-guidance) (CAF) is an extensive framework of fourteen principles used to assess  the risk of various cyber threats and an organization's defenses against these.
@@ -120,7 +126,7 @@ important services and activities" such as critical infrastructure, banking, and
 - Monitoring
 - Response and recovery planning
 
-
+---
 
 
 
@@ -137,7 +143,7 @@ Here is a short breakdown of the in-built browser tools you will use:
 - **Debugger** - Inspect and control the flow of a page's JavaScript
 - **Network** - See all the network requests a page makes.
 
-
+---
 
 
 # Content Discovery
