@@ -13,7 +13,7 @@ who may be interested in cybersec and penetration testing.
 
 - [Penetration Testing Frameworks](#penetration-testing-frameworks)
 
-	- [OSSTMM](#ostmm)
+	- [OSSTMM](#osstmm)
 	- [OWASP](#owasp)
 	- [NIST](#nist)
    	- [NCSC CAF](#ncsc-caf)
@@ -29,6 +29,11 @@ who may be interested in cybersec and penetration testing.
 		- [Sitemap.xml](#sitemapxml)
   		- [HTTP Headers](#http-headers)
 	- [OSINT](#osint)
+ 		-[Google Dorking](#google-dorking)
+   		-[Wappalyzer](#wappalyzer)
+   		-[Wayback Machine](#wayback-machine)
+   		-[S3 Buckets](#s3-buckets)
+   	-[Automated Discovery](#automation-tools)
  
 
 ---
