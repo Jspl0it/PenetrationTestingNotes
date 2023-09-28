@@ -34,7 +34,7 @@ who may be interested in cybersec and penetration testing.
    		- [Wayback Machine](#wayback-machine)
    		- [S3 Buckets](#s3-buckets)
    	- [Automated Discovery](#automated-discovery)
-   		- [Automation Tools](automation-tools)
+   		- [Automation Tools](#automation-tools)
  
 
 ---
